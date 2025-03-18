@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    background-color: darkolivegreen;
+    align-items: center;
+    height: 60px;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.logo{     
+    color:aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+}

@@ -1,0 +1,19 @@
+
+.titulo{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    width: 100%;
+    justify-content: space-around;
+}
+
+  .tabela, th, td{
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid rgb(160 160 160);
+  }
+  th{
+    background-color: lightgray;
+  }
+  
